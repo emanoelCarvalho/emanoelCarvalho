@@ -7,12 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoelCarvalho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emanoelCarvalho&theme=gotham)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emanoelCarvalho&theme=dracula&Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emanoelCarvalho&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">  
 <a href="https://www.instagram.com/emanoel2__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -35,6 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![Elipse](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&labelColor=0D1117)&nbsp;
 
 
 ### Other Knowledge:
@@ -44,7 +41,7 @@
   
 ### Studying in this moment:
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 
 <br></div>
   
