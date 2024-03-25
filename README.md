@@ -25,6 +25,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-0D1117?style=for-the-badge&logo=svelte&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 
 
 ### Tools:
