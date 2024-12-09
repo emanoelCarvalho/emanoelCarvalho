@@ -16,8 +16,9 @@ Olá, sou Emanoel Carvalho, um desenvolvedor full-stack apaixonado por tecnologi
 ## 🌍 Vamos Conectar!
 
 <div align="center">  
-  <a href="https://www.instagram.com/emanoel2__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/emanoel.http" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.linkedin.com/in/emanoelCarvalho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://dev.to/emanoelcarvalho" target="_blank"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>
 </div>
 
 ## 🛠️ Minhas Habilidades
@@ -28,6 +29,7 @@ Olá, sou Emanoel Carvalho, um desenvolvedor full-stack apaixonado por tecnologi
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Frameworks & Bibliotecas
 ![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -45,9 +47,6 @@ Olá, sou Emanoel Carvalho, um desenvolvedor full-stack apaixonado por tecnologi
 ## 📚 Outros Conhecimentos
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=0D1117)&nbsp;
-
-## 📚 Estudando no Momento
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 
 ---
 
