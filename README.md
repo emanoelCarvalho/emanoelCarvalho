@@ -42,4 +42,4 @@ Este repositório contém meus projetos de código aberto, experimentos de apren
 
 - Estou sempre buscando novas formas de otimizar meu fluxo de trabalho e melhorar a performance dos meus códigos.
 - Amo trabalhar com **API design** e  **microservices**.
-- Tenho interesse crescente em **Machine Learning**, **Inteligência Artificial** e **cloud computing**.
+- Tenho interesse crescente em **Machine Learning** e **Inteligência Artificial**.
