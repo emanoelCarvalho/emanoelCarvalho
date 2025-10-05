@@ -9,8 +9,8 @@ Sou um desenvolvedor apaixonado por soluções eficientes e inovadoras. Atualmen
 ### 🛠️ **Tecnologias & Ferramentas**:
 
 - **Linguagens**: JavaScript, TypeScript, Python, Java, PHP
-- **Frameworks**: NestJS, Vue.js, Bootstrap, Svelte
-- **Ferramentas**: Git, GitHub, Docker, Visual Studio Code, Linux, Figma, Insomnia
+- **Frameworks**: NestJS, Vue.js, Bootstrap, Svelte, React Native, Expo
+- **Ferramentas**: Git, GitHub, Docker, Visual Studio Code, Linux, Figma, Insomnia, Gaffana, Prometheus
 
 ---
 
