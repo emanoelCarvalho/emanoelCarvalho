@@ -1,9 +1,9 @@
 name: GitHub Metrics
 
 on:
-  schedule:
-    - cron: "0 6 * * *" 
   workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
 
 jobs:
   metrics:
@@ -16,7 +16,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: emanoelCarvalho
-
           filename: assets/metrics.svg
 
           base: header, activity, community, repositories, metadata
