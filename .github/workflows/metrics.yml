@@ -26,14 +26,4 @@ jobs:
           plugin_languages_limit: 8
 
           plugin_lines: yes
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-
-          plugin_repositories: yes
-          plugin_repositories_featured: yes
-
-          plugin_skyline: yes
-          plugin_skyline_year: current-year
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 1
+          
