@@ -1,41 +1,36 @@
-## 🚀 Emanoel Carvalho
+# Emanoel Carvalho
+**Building scalable systems, reliable APIs, and high-performance applications.**
 
-**Full Stack Engineer | Node.js | NestJS | Vue.js | React Native | Cloud & DevOps**
-
-Desenvolvedor Full Stack focado em **arquitetura de software, APIs escaláveis e interfaces performáticas**.  
-Experiência na construção de **sistemas cloud-native**, aplicando boas práticas de desenvolvimento, testes e observabilidade para entregar soluções **robustas, seguras e de alta disponibilidade**.
+Full Stack Engineer with a strong focus on **software architecture, cloud-native development, and system scalability**. I design and deliver **production-grade solutions** that balance performance, maintainability, and real-world usability.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-**Linguagens:** JavaScript • TypeScript • Python • Java • PHP  
-**Backend:** Node.js • NestJS • PostgreSQL • Docker • Microsserviços  
-**Frontend & Mobile:** Vue.js • React • React Native • Expo • Svelte  
-**Cloud & DevOps:** AWS • GCP • Linux • Git • GitHub  
-**Observabilidade:** Grafana • Prometheus • Testes • Clean Code  
+## 💡 Beyond the Code: Open Source
+Beyond my professional projects, I dedicate time to **Open Source Engineering**. I believe that contributing to the community is the best way to exercise creativity and drive social progress through technology.
+- **Creative Problem Solving:** Applying architectural patterns to diverse community-driven projects.
+- **Global Collaboration:** Contributing to the tools that the industry relies on every day.
+- **Continuous Learning:** Refining my craft by interacting with different codebases and perspectives.
 
 ---
 
-## 📊 GitHub Metrics
+## Core Expertise
 
+**Backend Engineering:** Node.js, NestJS, Scalable API Design, PostgreSQL, Docker.  
+**Frontend & Mobile:** Vue.js, React, React Native, Expo, Svelte.  
+**Infrastructure:** AWS, GCP, Linux, CI/CD, Observability (Grafana/Prometheus).  
+
+---
+
+## GitHub Metrics
 ![Metrics](./assets/metrics.svg)
 
 ---
 
-## 📬 Contato
-
-📧 Email: **hemanoel718@gmail.com**  
-💼 LinkedIn: **linkedin.com/in/emanoelCarvalho**  
-📝 Dev.to: **dev.to/emanoelcarvalho**  
-📷 Instagram: **@emanoel.http**
+## Contact
+- Email: **hemanoel718@gmail.com**  
+- LinkedIn: [linkedin.com/in/emanoelCarvalho](https://linkedin.com/in/emanoelCarvalho)  
+- Dev.to: [dev.to/emanoelcarvalho](https://dev.to/emanoelcarvalho)  
 
 ---
 
-## ⚡ Interesses
-
-- Arquitetura de APIs e Microsserviços  
-- Cloud & DevOps  
-- Observabilidade  
-- Performance e Escalabilidade  
-- Machine Learning & IA
+> *"Great software is not just about working code — it's about building systems that scale, evolve, and deliver value to society."*
